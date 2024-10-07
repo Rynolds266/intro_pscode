@@ -2,3 +2,34 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+
+1-Get going.
+
+2-Specify 0,0 as the current position.
+
+3-Assign the target location  coordinates X, Y  to the target position.
+
+3-Put this message on display: Hi! To get there, you can travel east, west, north, or south.
+
+4-Even when the intended position is not the same as the present position:
+
+5-Show the location as it is right now.
+
+6-Request a direction from the user north, south, east, or west.
+
+7-The current position  y-coordinate will be increased by 1 if the user inputs north.
+
+8-Otherwise, if the user types south the current position y-coordinate is decreased by 1.
+
+9-Otherwise, if the user types east the current position x-coordinate will be increased by 1.
+
+10-If the user inputs west then the current position x-coordinate will be decreased by 1.
+
+11-Display a message: Invalid direction. Please enter north, south, east, or west.
+
+12-When the current position matches the target position:
+
+13-Display a message: Congratulations! You have reached the target location at X, Y.
+
+14-End.
+

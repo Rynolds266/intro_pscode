@@ -2,3 +2,16 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+1-The user enters the range's bottom and upper bounds.
+
+2-For future use, the compiler creates a random integer between the range and stores it in a variable.
+
+3-We'll initialize a while loop for repeated guesses.
+
+4-The user receives the message "Try Again! "if they guess a number that is higher than a randomly chosen number. You made an incorrect estimate.
+
+5-The user receives the message "Try Again! "if their guess is less than a randomly chosen number. You made a small guess.
+
+6-Additionally, the user receives a "Congratulations!" output if they made the required amount of guesses.
+
+7-Otherwise, the user will receive "Better Luck" if they are unable to estimate the integer in the allotted number of tries.

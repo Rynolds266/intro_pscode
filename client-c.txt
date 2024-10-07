@@ -2,3 +2,10 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+
+1-Get going.
+2-Put the count down to two at this time.
+3-50 should be the maximum count.
+4-Present the current count when it is less than or equal to the maximum count.
+5-Add two to the existing count.
+6-Close.
